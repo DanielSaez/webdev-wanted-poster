@@ -1,0 +1,7 @@
+div {
+    text-align: center;
+    overflow: hidden;
+    border: 20px solid gold;
+    width: 300px;
+    background-color: goldenrod;
+}   
